@@ -33,3 +33,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için,lütfen önce neyi d
 ## **Licence**
 
 [MIT](C:\Users\canyl\Desktop\kodluyoruzilrepo-main\LICENSE)
+
+!["C:\Users\canyl\Downloads\kodluyoruzilkrepo\kodluyoruzilkrepo\Adsız.png"](Ads%C4%B1z.png)
